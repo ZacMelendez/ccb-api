@@ -1,0 +1,10 @@
+{
+    "name": "ccb-api",
+    "version": "1.0.0",
+    "description": "Church Community Builder API wrapper w/ typescript support",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ]
+}
